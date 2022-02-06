@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>burger code</title>
+		<title>king burger</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -11,7 +11,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap" rel="stylesheet">
 	</head>
   <body>
-	  <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Burger code <span class="glyphicon glyphicon-cutlery"></span> </h1>
+	  <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span>king Burger  <span class="glyphicon glyphicon-cutlery"></span> </h1>
 	  <div class="container admin">
 		  <div class="row">
 			  <h1><strong>Liste des items  </strong><a href="insert.php?id=1" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-plus"></span> Ajouter</a></h1>
