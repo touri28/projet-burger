@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE HTML>
 <html>
 	<head>
-		<title>burger code</title>
+		<title>king burger</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<div class="container site">
-			<h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Burger code <span class="glyphicon glyphicon-cutlery"></span> </h1>
+			<h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span>king Burger  <span class="glyphicon glyphicon-cutlery"></span> </h1>
 			<?php 
 			require 'admin/database.php';
 			echo '<nav>
@@ -87,7 +87,7 @@
 		 <a href="#">
 			  <span class="glyphicon glyphicon-chevron-up"></span>
 		  </a>
-		  <h5>university youcef  </h5>
+		  <h5> Université d'Alger Benyoucef Benkhedda </h5>
 	  </footer>
 
 	
